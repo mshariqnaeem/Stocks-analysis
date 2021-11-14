@@ -96,6 +96,7 @@ Now when we run our refactored Stock Analysis we get the following results when 
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/92459399/141698293-712a0c1a-426e-4f70-91e4-3573190c64d5.PNG)
 
+![image](https://user-images.githubusercontent.com/92459399/141698657-bb0b5072-9d70-4550-aae9-be6a0cace6ac.png)
 
 ### Summary
 
